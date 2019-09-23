@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohpaghogu.missionfacts.org/sitemap.xml
